@@ -34,3 +34,17 @@ The website will be accessible at `http://localhost:3000`.
 - GitHub: [@AnicetFantomas](https://github.com/AnicetFantomas)
 - Twitter: [@FantomasAnicet](https://twitter.com/FantomasAnicet)
 - LinkedIn: [Anicet Murhula](https://www.linkedin.com/in/anicet-murhula/)
+
+  ## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/sentayhu19/Catalog-of-my-things/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
