@@ -16,7 +16,7 @@ A web application that allows users to book hotels easily and conveniently.
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/hotel-booking.git`
+1. Clone the repository: `[git clone https://github.com/your-username/hotel-booking.git](https://github.com/AnicetFantomas/Elikya-hotel)`
 2. Navigate to the project folder: `cd hotel-booking`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
